@@ -23,6 +23,6 @@ The recommended way to use this project is via **Google Colab**. This avoids the
 
 ### Run in Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e7xsS6p-zwUuk6LQ6tY516sghLWIGeC_?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Iay8euZ78HiiGmxJD7YjvEuAHkNDDvvg?usp=sharing)
 
 > **Note:** Dependencies for Fugu and Whetstone have been included by directly copying the necessary source code into the notebook or repository, rather than using `pip install`. This improves compatibility and avoids external versioning issues, especially in Colab environments.

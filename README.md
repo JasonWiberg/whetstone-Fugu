@@ -1,6 +1,6 @@
 # Spiking Neural Networks on MNIST with Whetstone and Fugu
 
-This project demonstrates how to build, train, and simulate **spiking neural networks (SNNs)** using the [Whetstone](https://github.com/NeuromorphicComputing/whetstone) training methodology and [Fugu](https://github.com/neuromorphs/fugu), a platform-agnostic simulation tool for neuromorphic computing.
+This project demonstrates how to train and simulate **spiking neural networks (SNNs)** using the [Whetstone](https://github.com/NeuromorphicComputing/whetstone) training methodology and [Fugu](https://github.com/neuromorphs/fugu), a platform-agnostic simulation tool for neuromorphic computing.
 
 We apply these tools to the **MNIST dataset**, converting standard neural networks (dense and convolutional) into spiking equivalents and simulating them in a way that is compatible with neuromorphic hardware.
 
